@@ -23,7 +23,7 @@ function rmfiles()
 		rmfiles $dir
 	done
 ######################################
-set +x
+# set +x
 	dirlist=$(ls -a)
 	# echo "Check hidden directories"
 	for dir in $dirlist ; do
@@ -35,10 +35,10 @@ set +x
 			fi
 		fi
 	done
-set +x
+# set +x
 	cd ..
 }
-set +x
+# set +x
 rmfiles $1
 
-set +x
+# set +x
