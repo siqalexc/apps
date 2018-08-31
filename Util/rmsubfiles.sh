@@ -3,7 +3,7 @@
 # rmsubfiles.sh - remove all files in current directory and sub-directories
 #                 leave empty directories skoleten.
 #
-#
+# 08/30/2018 by Alex Cheng
 
 PATH_NAME=
 
