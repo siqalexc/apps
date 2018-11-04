@@ -6,3 +6,5 @@ echo "Hello Linux scripts!"
 
 echo "Changes in dev103!"
 echo "Using dev103 for submodule test!"
+
+echo "Adding more for DEV02 changes!"
